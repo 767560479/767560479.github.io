@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app.f8e44a68.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03.Python/八股文.md","lastUpdated":1778159364946}'),o={name:"03.Python/八股文.md"};function r(n,s,c,_,p,d){return e(),a("div")}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
